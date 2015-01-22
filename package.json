@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "json-server": "^0.5.9",
+    "faker": "^2.1.2",
+    "lodash": "^2.4.1"
+  }
+}
